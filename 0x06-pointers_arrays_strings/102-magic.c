@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/*
-* main: magic file
-* descriptio: A dream doesn't become reality through magic
-* it takes sweat, determination and hard work
-* Return: 0 (success)
+/**
+* main - Entry point of the program.
+*
+* This function is the entry point of the program and is executed when
+* the program is run. It contains the main logic of the program.
+*
+* Return: 0 if successful, otherwise an error code.
 */
 int main(void)
 {
