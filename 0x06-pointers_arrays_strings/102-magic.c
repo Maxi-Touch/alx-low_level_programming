@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+* main: magic file
+* descriptio: A dream doesn't become reality through magic
+* it takes sweat, determination and hard work
+* Return: 0 (success)
+*/
 int main(void)
 {
 int n;
